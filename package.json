@@ -1,0 +1,24 @@
+{
+  "name": "intro_mongo_morning",
+  "version": "0.9.0",
+  "description": "mi primera conexion a mongo db desde node",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/anfejaramillo/introduccion_mongo_morning.git"
+  },
+  "author": "anfejaramillo",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/anfejaramillo/introduccion_mongo_morning/issues"
+  },
+  "homepage": "https://github.com/anfejaramillo/introduccion_mongo_morning#readme",
+  "dependencies": {
+    "body-parser": "^1.20.1",
+    "express": "^4.18.2",
+    "mongodb": "^4.11.0"
+  }
+}
